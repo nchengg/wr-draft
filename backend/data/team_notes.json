@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "id": "first-picks",
+      "title": "First Picks",
+      "color": "#22c55e",
+      "cards": []
+    },
+    {
+      "id": "lane-synergies",
+      "title": "Lane Synergies",
+      "color": "#0ea5e9",
+      "cards": []
+    },
+    {
+      "id": "must-ban",
+      "title": "Don't Want to Play Against",
+      "color": "#ef4444",
+      "cards": []
+    },
+    {
+      "id": "strategies",
+      "title": "Strategies & Gameplans",
+      "color": "#8b5cf6",
+      "cards": []
+    },
+    {
+      "id": "notes",
+      "title": "General Notes",
+      "color": "#64748b",
+      "cards": []
+    },
+    {
+      "id": "d3d6a9a2",
+      "title": "Top Champ Pool",
+      "color": null,
+      "cards": []
+    },
+    {
+      "id": "f7ec8d8f",
+      "title": "Jungle Champ Pool",
+      "color": null,
+      "cards": []
+    },
+    {
+      "id": "89a131d3",
+      "title": "Mid Champ Pool",
+      "color": null,
+      "cards": []
+    },
+    {
+      "id": "4ee4ed15",
+      "title": "Bot Pool",
+      "color": null,
+      "cards": []
+    },
+    {
+      "id": "ed572729",
+      "title": "Support Pool",
+      "color": null,
+      "cards": []
+    }
+  ]
+}

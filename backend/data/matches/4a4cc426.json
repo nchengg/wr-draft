@@ -1,0 +1,51 @@
+{
+  "id": "4a4cc426",
+  "date": "2026-03-12",
+  "tournament": "Ranked",
+  "patch": "-",
+  "blue_team": "-",
+  "red_team": "-",
+  "draft": {
+    "bans": [],
+    "picks": [
+      {
+        "champion_id": "aatrox",
+        "team": "blue",
+        "role": "baron",
+        "order": 1
+      }
+    ]
+  },
+  "player_stats": [
+    {
+      "name": "Rex",
+      "role": "baron",
+      "side": "blue",
+      "result": "W",
+      "champion_id": "aatrox",
+      "kills": 4,
+      "deaths": 1,
+      "assists": 7,
+      "heal_shield": 7762.0,
+      "cc_duration": 12.0,
+      "epic_monsters": 0,
+      "wards": 8,
+      "damage_dealt": 18915,
+      "damage_conversion_ratio": 1.1,
+      "damage_taken": 13584,
+      "damage_taken_per_defeat": 6792.0,
+      "damage_mitigation_ratio": 1.2,
+      "gold": 12451,
+      "monster_farm": 453,
+      "minion_score": 97,
+      "turrets_pushed": 2
+    }
+  ],
+  "result": {
+    "winner": "blue",
+    "duration_minutes": 15.0,
+    "mvp_champion_id": null,
+    "notes": null
+  },
+  "notes": null
+}
