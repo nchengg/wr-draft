@@ -4,7 +4,16 @@
       "id": "first-picks",
       "title": "First Picks",
       "color": "#22c55e",
-      "cards": []
+      "cards": [
+        {
+          "id": "48bf4fcc",
+          "text": "Renekton"
+        },
+        {
+          "id": "de39429b",
+          "text": "Kaisa (Ezreal ban)"
+        }
+      ]
     },
     {
       "id": "lane-synergies",
@@ -16,49 +25,125 @@
       "id": "must-ban",
       "title": "Don't Want to Play Against",
       "color": "#ef4444",
-      "cards": []
+      "cards": [
+        {
+          "id": "8e262b49",
+          "text": "Bard, Warwick, Aurora, Mel, Nautilus"
+        }
+      ]
     },
     {
       "id": "strategies",
-      "title": "Strategies & Gameplans",
+      "title": "Strategies",
       "color": "#8b5cf6",
-      "cards": []
+      "cards": [
+        {
+          "id": "1cd81891",
+          "text": "Jungle Tempo"
+        },
+        {
+          "id": "1560b48c",
+          "text": "Bot 2c"
+        },
+        {
+          "id": "a815c173",
+          "text": "Bot Mid Lategame"
+        }
+      ]
     },
     {
       "id": "notes",
       "title": "General Notes",
       "color": "#64748b",
-      "cards": []
+      "cards": [
+        {
+          "id": "d340ffdc",
+          "text": "Bot/Mid Swap:\n1. Opponent bot comp weak --> Initiate swap\n2. Mid champ needs to have strong early waveclear"
+        },
+        {
+          "id": "00a8a2bf",
+          "text": "Find comps to counter thresh/blitzcrank --> Zillean"
+        }
+      ]
     },
     {
       "id": "d3d6a9a2",
       "title": "Top Champ Pool",
       "color": null,
-      "cards": []
+      "cards": [
+        {
+          "id": "8ae9eef3",
+          "text": "Ambessa, Warwick, Olaf, Camille, Aatrox, Jax, Sett, Sion, Poppy, Mordekaiser, Volibear, Renekton, Nasus, Jayce, Fiora, Urgot, Ornn"
+        },
+        {
+          "id": "2ca5c6d9",
+          "text": ""
+        }
+      ]
     },
     {
       "id": "f7ec8d8f",
       "title": "Jungle Champ Pool",
       "color": null,
-      "cards": []
+      "cards": [
+        {
+          "id": "54255fcb",
+          "text": "Hecarim, Lee sin, Xin Zhao, Viego, Ambessa, Olaf, Jarvan, Aatrox, Riven, Camille"
+        },
+        {
+          "id": "634a542a",
+          "text": "Lillia, Gragas"
+        }
+      ]
     },
     {
       "id": "89a131d3",
       "title": "Mid Champ Pool",
       "color": null,
-      "cards": []
+      "cards": [
+        {
+          "id": "9f8b6d8e",
+          "text": "Ahri, Annie, Syndra, Lux, Vel'kox, Diana, Galio, Ziggs, Morgana, Lissandra, Vex, Aurelion Sol, Viktor, Norra, Aurora, Karma, Zillean"
+        },
+        {
+          "id": "b84e15cc",
+          "text": "Yone, Poppy, Ornn, Irelia, Nautilus, Maokai, Aatrox, Fiora, Xin Zhao"
+        },
+        {
+          "id": "2a1b0fab",
+          "text": "Smolder, Lucian, Corki, Tristana"
+        },
+        {
+          "id": "15583a47",
+          "text": "Supports"
+        }
+      ]
     },
     {
       "id": "4ee4ed15",
       "title": "Bot Pool",
       "color": null,
-      "cards": []
+      "cards": [
+        {
+          "id": "d54d3c2e",
+          "text": "Everything you can imagine"
+        }
+      ]
     },
     {
       "id": "ed572729",
       "title": "Support Pool",
       "color": null,
-      "cards": []
+      "cards": [
+        {
+          "id": "dada9877",
+          "text": "Nami, Lulu, Seraphine, Yuumi, Janna, Braum, Milio, Zillean, Karma, Senna, Soraka"
+        },
+        {
+          "id": "5d271560",
+          "text": "Train: Bard"
+        }
+      ]
     }
   ]
 }
